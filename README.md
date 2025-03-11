@@ -5,7 +5,7 @@ I'm Paskal Irvaldi Manik, an IT Student at University of North Sumatra.
 💻 I'm a Fullstack Developer <br>
 💬 Ask me about anything! Ill be happy to reply ^_^ <br>
 👯 I’m looking to collaborate on any Project, so feel free to reach me ! <br>
-📫 How to reach me: paskalirvaldi10@gmail.com <br> <br>
+📫 How to reach me: paskalirvaldi10@gmail.com <br> <br> <br>
 
 ## Socials
 <div>
